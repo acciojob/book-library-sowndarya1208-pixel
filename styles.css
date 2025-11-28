@@ -7,7 +7,6 @@
 	flex-direction: column;
 }
 .book-library{
-	width:px;
 	background-color:#ffffff;
 	 display: flex;
     justify-content: center;
@@ -21,15 +20,14 @@
 	margin-top:10px;
 	margin-bottom:10px;
 	display:block;
+	
 }
 #author{
 	background-color:#777777;
-	display:block;
+width:600px;
 }
 #price{
 	background-color:#2ecc71;
-	display:flex;
-	justify-content: center;
-	align-items:center;
+	width:600px;
 	display:block;
 	}
