@@ -32,8 +32,8 @@
 
 /* Changed '#' ID selector to '.' class selector */
 .price {
-    background-color: #2ecc71;
-    display: inline-block; /* simplified display properties */
+    
+    display: block; /* simplified display properties */
     padding: 5px 10px; /* Added padding for better display */
     color: white; /* <-- CRITICAL FIX: The test expects the text itself to be white */
     font-weight: bold;
