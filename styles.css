@@ -22,13 +22,17 @@
 	display:block;
 	
 }
-#author{
-	background-color:rgp(119,119,119);
+.author{
+	background-color:#777777;
 width:600px;
+	display: inline-block;
+    padding: 4px 8px; /* Added padding for better display */
+    color: white;
 }
-#price{
-	
+.price{
+	color:white;
+	font-weight: bold;
 	background-color: #2ecc71;
 	width:600px;
-	display:block;
+	display:inline-block;
 	}
